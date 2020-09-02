@@ -332,7 +332,7 @@ d) retain appropriate documented information as evidence of competence.
 
 A.7.2.2 Information security awareness, education and training
 
-> *Control*
+>*Control*
 
 >All employees of the organization and, where relevant, contractors shall receive appropriate awareness education and training and regular updates in organizational policies and procedures, as relevant for their job function.
 
@@ -370,32 +370,32 @@ TBA
 
 #### CC1.4 COSO Principle 4: The entity demonstrates a commitment to attract, develop, and retain competent individuals in alignment with objectives.
 
-The following points of focus highlight important characteristics relating to this criterion:
+>The following points of focus highlight important characteristics relating to this criterion:
 
-Points of focus specified in the COSO framework:
+>Points of focus specified in the COSO framework:
 
-* Establishes Policies and Practices — Policies and practices reflect expectations of competence necessary to support the achievement of objectives.
-* Evaluates Competence and Addresses Shortcomings — The board of directors and management evaluate competence across the entity and in outsourced service providers in relation to established policies and practices and act as necessary to address shortcomings.
-* Attracts, Develops, and Retains Individuals — The entity provides the mentoring and training needed to attract, develop, and retain sufficient and competent personnel and outsourced service providers to support the achievement of objectives.
-
-...
-
-Additional point of focus specifically related to all engagements using the trust services criteria:
+> * Establishes Policies and Practices — Policies and practices reflect expectations of competence necessary to support the achievement of objectives.
+> * Evaluates Competence and Addresses Shortcomings — The board of directors and management evaluate competence across the entity and in outsourced service providers in relation to established policies and practices and act as necessary to address shortcomings.
+> * Attracts, Develops, and Retains Individuals — The entity provides the mentoring and training needed to attract, develop, and retain sufficient and competent personnel and outsourced service providers to support the achievement of objectives.
 
 ...
 
-* Provides Training to Maintain Technical Competencies — The entity provides training programs, including continuing education and training, to ensure skill sets and technical competency of existing personnel, contractors, and vendor employees are developed and maintained.
+>Additional point of focus specifically related to all engagements using the trust services criteria:
+
+...
+
+> * Provides Training to Maintain Technical Competencies — The entity provides training programs, including continuing education and training, to ensure skill sets and technical competency of existing personnel, contractors, and vendor employees are developed and maintained.
 
 #### CC2.2 COSO Principle 14: The entity internally communicates information, including objectives and responsibilities for internal control, necessary to support the functioning of internal control.
 
 ...
 
-Additional points of focus specifically related to all engagements using the trust services criteria:
+>Additional points of focus specifically related to all engagements using the trust services criteria:
 
 
 ...
 
-* Communicates Information to Improve Security Knowledge and Awareness — The entity communicates information to improve security knowledge and awareness and to model appropriate security behaviors to personnel through a security awareness training program.
+> * Communicates Information to Improve Security Knowledge and Awareness — The entity communicates information to improve security knowledge and awareness and to model appropriate security behaviors to personnel through a security awareness training program.
 
 ## SACSF
 

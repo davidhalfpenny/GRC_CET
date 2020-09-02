@@ -247,7 +247,7 @@ i) reporting of information security incidents and concerns.
 ## PSPF
 
 ### What is PSPF?
-The Protective Security Policy Framework
+**The Protective Security Policy Framework**
 
 
 ### What does it say about education and training?
@@ -919,83 +919,83 @@ any identified inadequacies in previous methods of training or consistent failur
 
 #### 7 Support - 7.2 Competence
 
-The organization shall:
-a) determine the necessary competence of person(s) doing work under its control that affects its information security performance;
-b) ensure that these persons are competent on the basis of appropriate education, training, or experience;
-c) where applicable, take actions to acquire the necessary competence, and evaluate the effectiveness of the actions taken; and
-d) retain appropriate documented information as evidence of competence.
+>The organization shall:
+ a) determine the necessary competence of person(s) doing work under its control that affects its information security performance;
+ b) ensure that these persons are competent on the basis of appropriate education, training, or experience;
+ c) where applicable, take actions to acquire the necessary competence, and evaluate the effectiveness of the actions taken; and
+ d) retain appropriate documented information as evidence of competence.
 
-NOTE Applicable actions may include, for example: the provision of training to, the mentoring of, or the reassignment of current employees; or the hiring or contracting of competent persons.
+>NOTE Applicable actions may include, for example: the provision of training to, the mentoring of, or the reassignment of current employees; or the hiring or contracting of competent persons.
 
 
 #### A.7 Human resource security - A.7.2 During employment
 
 A.7.2.2 Information security awareness, education and training
 
-*Control*
+>*Control*
 
-All employees of the organization and, where relevant, contractors shall receive appropriate awareness education and training and regular updates in organizational policies and procedures, as relevant for their job function.
+>All employees of the organization and, where relevant, contractors shall receive appropriate awareness education and training and regular updates in organizational policies and procedures, as relevant for their job function.
 
 ## ISO14001
 
 ### What is ISO14001?
 **Environmental management systems - Requirements with guidance for use**
-????
 
 ### What does it say about education and training?
 
 #### 4.4 Implementation and operation - 4.4.2 Competence, training and awareness
 
-The organizqation shall ensure that any person(s) performing tasks for it or on its behalf that have the potential to cause a significant environmental impact(s) identified by the organization is (are) cometent on the basis of appropriate education, training or experience, and shall retain associated records.
+>The organizqation shall ensure that any person(s) performing tasks for it or on its behalf that have the potential to cause a significant environmental impact(s) identified by the organization is (are) cometent on the basis of appropriate education, training or experience, and shall retain associated records.
 
-The organization shall identify training needs associated with its environmental aspects and its environmental management system. It shall provide training or take other action to meet these needs, and shall retain associated recrods.
+>The organization shall identify training needs associated with its environmental aspects and its environmental management system. It shall provide training or take other action to meet these needs, and shall retain associated recrods.
 
-The organization shall establish, implement and maintain a procedure(s) to make persons working for it or on its behalf aware of
-a) the importance of conformity with the environmental policy and procedures and with the requirements of the environmental management system,
-b) the significant environmental aspects and related actual or potential impacts associated with their work, and the environmental benefits of improved personal performance,
-c) their roles and responsibilities in achieving conformity with the requirements of the environmental management system, and
-d) the potential consequences of departure from specified procedures.
+>The organization shall establish, implement and maintain a procedure(s) to make persons working for it or on its behalf aware of
+ a) the importance of conformity with the environmental policy and procedures and with the requirements of the environmental management system,
+ b) the significant environmental aspects and related actual or potential impacts associated with their work, and the environmental benefits of improved personal performance,
+ c) their roles and responsibilities in achieving conformity with the requirements of the environmental management system, and
+ d) the potential consequences of departure from specified procedures.
 
 #### Implementation and operation - A.4.2 Competence, training and awareness
 
-TBA
+> TBA
 
 ## SOC 2/3
 
 ### What is SOC 2/3?
 **Service Organization Control**
+
 2017 Trust Services Criteria for Security, Availability, Processing Integrity, Confidentiality, and Privacy
 
 ### What does it say about education and training?
 
 #### CC1.4 COSO Principle 4: The entity demonstrates a commitment to attract, develop, and retain competent individuals in alignment with objectives.
 
-The following points of focus highlight important characteristics relating to this criterion:
+>The following points of focus highlight important characteristics relating to this criterion:
 
-Points of focus specified in the COSO framework:
+>Points of focus specified in the COSO framework:
 
-* Establishes Policies and Practices — Policies and practices reflect expectations of competence necessary to support the achievement of objectives.
-* Evaluates Competence and Addresses Shortcomings — The board of directors and management evaluate competence across the entity and in outsourced service providers in relation to established policies and practices and act as necessary to address shortcomings.
-* Attracts, Develops, and Retains Individuals — The entity provides the mentoring and training needed to attract, develop, and retain sufficient and competent personnel and outsourced service providers to support the achievement of objectives.
-
-...
-
-Additional point of focus specifically related to all engagements using the trust services criteria:
+> * Establishes Policies and Practices — Policies and practices reflect expectations of competence necessary to support the achievement of objectives.
+> * Evaluates Competence and Addresses Shortcomings — The board of directors and management evaluate competence across the entity and in outsourced service providers in relation to established policies and practices and act as necessary to address shortcomings.
+> * Attracts, Develops, and Retains Individuals — The entity provides the mentoring and training needed to attract, develop, and retain sufficient and competent personnel and outsourced service providers to support the achievement of objectives.
 
 ...
 
-* Provides Training to Maintain Technical Competencies — The entity provides training programs, including continuing education and training, to ensure skill sets and technical competency of existing personnel, contractors, and vendor employees are developed and maintained.
+>Additional point of focus specifically related to all engagements using the trust services criteria:
+
+...
+
+> * Provides Training to Maintain Technical Competencies — The entity provides training programs, including continuing education and training, to ensure skill sets and technical competency of existing personnel, contractors, and vendor employees are developed and maintained.
 
 #### CC2.2 COSO Principle 14: The entity internally communicates information, including objectives and responsibilities for internal control, necessary to support the functioning of internal control.
 
 ...
 
-Additional points of focus specifically related to all engagements using the trust services criteria:
+>Additional points of focus specifically related to all engagements using the trust services criteria:
 
 
 ...
 
-* Communicates Information to Improve Security Knowledge and Awareness — The entity communicates information to improve security knowledge and awareness and to model appropriate security behaviors to personnel through a security awareness training program.
+> * Communicates Information to Improve Security Knowledge and Awareness — The entity communicates information to improve security knowledge and awareness and to model appropriate security behaviors to personnel through a security awareness training program.
 
 ## SACSF
 
@@ -1007,26 +1007,26 @@ Additional points of focus specifically related to all engagements using the tru
 
 #### Principle One: Governance - Manage security risks and support a positive security culture, ensuring clear lines of accountability, strategic planning, assurance and review, and proportionate reporting. - 1.2 Organisational Structure and Staff Responsibilities
 ...
-Personnel and contractors must be provided with information and training to support awareness of their collective responsibility to foster a positive security culture.
+>Personnel and contractors must be provided with information and training to support awareness of their collective responsibility to foster a positive security culture.
 
-**Tier One: Cyber Security Responsibilities, Training and Awareness**
+>**Tier One: Cyber Security Responsibilities, Training and Awareness**
 ...
-* Cyber security education and awareness training is provided to all personnel and contractors during induction and at least annually thereafter, ensuring they are aware of their responsibilities regarding the appropriate use of agency information assets.
+> * Cyber security education and awareness training is provided to all personnel and contractors during induction and at least annually thereafter, ensuring they are aware of their responsibilities regarding the appropriate use of agency information assets.
 
-**Tier Two: Cyber Security Responsibilities, Training and Awareness**
+>**Tier Two: Cyber Security Responsibilities, Training and Awareness**
 ...
-* Additional security training is provided to agency personnel who are in positions of trust, have heightened security responsibilities, or have increased risk profiles.
-* Personnel and contractors responsible for cyber security management and day-to-day operations maintain industry recognised certifications relevant to their role that have ongoing continuing professional education requirements or have been obtained within the prior five years.
-* The agency evaluates the performance of all workers with reference to cyber security responsibilities and performance requirements.
+> * Additional security training is provided to agency personnel who are in positions of trust, have heightened security responsibilities, or have increased risk profiles.
+> * Personnel and contractors responsible for cyber security management and day-to-day operations maintain industry recognised certifications relevant to their role that have ongoing continuing professional education requirements or have been obtained within the prior five years.
+> * The agency evaluates the performance of all workers with reference to cyber security responsibilities and performance requirements.
 
-**Tier Three: Cyber Security Responsibilities, Training and Awareness**
-* Skills gap assessments are performed for cyber security and IT personnel responsible for implementing or managing technical security controls. Targeted training is provided for these personnel specific to the technologies in use within the agency. Where contractors or third-parties are used in place of internal resources, periodic vetting of competency is performed.
+>**Tier Three: Cyber Security Responsibilities, Training and Awareness**
+> * Skills gap assessments are performed for cyber security and IT personnel responsible for implementing or managing technical security controls. Targeted training is provided for these personnel specific to the technologies in use within the agency. Where contractors or third-parties are used in place of internal resources, periodic vetting of competency is performed.
 
 #### Principle Two: Information - Maintain the confidentiality, integrity and availability of all agency information and systems. - 2.10 Secure Software Development
 
-**Tier Two**
+>**Tier Two**
 ...
-* Software developers are provided additional training relating to secure software development
+> * Software developers are provided additional training relating to secure software development
 
 
 
@@ -1040,23 +1040,23 @@ Personnel and contractors must be provided with information and training to supp
 
 #### 1 Policy Statement - 1.1 Overview
 ...
-Agencies must establish effective cyber security policies and procedures and embed cyber security into risk management practices and assurance processes. When cyber security risk management is done well, it reinforces organisational resilience, making entities aware of their risks and helps them make informed decisions in managing those risks. This should be complemented with meaningful training, communications and support across all levels of the agency.
+>Agencies must establish effective cyber security policies and procedures and embed cyber security into risk management practices and assurance processes. When cyber security risk management is done well, it reinforces organisational resilience, making entities aware of their risks and helps them make informed decisions in managing those risks. This should be complemented with meaningful training, communications and support across all levels of the agency.
 
 #### 2 Roles and Responsibilities - 2.2 Agency Heads
 ...
-All Agency Heads (e.g. Commissioners, Chief Executive Officers), including the Secretary of a department, are accountable for:
+>All Agency Heads (e.g. Commissioners, Chief Executive Officers), including the Secretary of a department, are accountable for:
 ...
-* Appropriately resourcing and supporting agency cyber security initiatives including training and awareness and continual improvement initiatives to support this policy
+> * Appropriately resourcing and supporting agency cyber security initiatives including training and awareness and continual improvement initiatives to support this policy
 
 #### 2 Roles and Responsibilities - 2.3 Chief Information Security Officers (CISO) or Chief Cyber Security Officers (CCSO)
-CISOs and CCSOs, or staff with those responsibilities are responsible for:
+>CISOs and CCSOs, or staff with those responsibilities are responsible for:
 ...
-* Establishing training and awareness programs to increase employees’ cyber security capability
+> * Establishing training and awareness programs to increase employees’ cyber security capability
 
 #### 3 Mandatory Requirements - 2 Agencies must build and support a cyber security culture across their agency and NSW Government more broadly. Agencies must:
 
-* 2.1 Implement regular cyber security education for all employees and contractors, and ensure that outsourced ICT service providers understand and implement the cyber security requirements of the contract.
-* 2.2 Increase awareness of cyber security risk across all staff including the need to report cyber security risks.
+> * 2.1 Implement regular cyber security education for all employees and contractors, and ensure that outsourced ICT service providers understand and implement the cyber security requirements of the contract.
+> * 2.2 Increase awareness of cyber security risk across all staff including the need to report cyber security risks.
 
 
 ## IS18
@@ -1069,14 +1069,14 @@ CISOs and CCSOs, or staff with those responsibilities are responsible for:
 
 
 #### Information management roles and responsibilities - 3.8	Awareness
-Ongoing education and awareness of all employees in the importance of information security, is central to successful information management. The agency should ensure that all employees who create, process or handle information have a clear understanding of the agency classification policies and procedures and of their responsibilities. Education and awareness programs will likely vary across an agency and between agencies and depend on the type of work and types of information dealt with.
+>Ongoing education and awareness of all employees in the importance of information security, is central to successful information management. The agency should ensure that all employees who create, process or handle information have a clear understanding of the agency classification policies and procedures and of their responsibilities. Education and awareness programs will likely vary across an agency and between agencies and depend on the type of work and types of information dealt with.
 
 #### Information security classification framework (QGISCF) - Ongoing activities - Education and awareness
-The ongoing education and awareness of all employees regarding the importance of classifying information is critical to the success of the overall agency security environment.
+>The ongoing education and awareness of all employees regarding the importance of classifying information is critical to the success of the overall agency security environment.
 
-Agencies should ensure that all employees have a clear understanding of the agency information security classification policies and procedures, their responsibilities, and principles. Employees who create, process or handle security classified information assets should be trained in how to assess and handle classified information.
+>Agencies should ensure that all employees have a clear understanding of the agency information security classification policies and procedures, their responsibilities, and principles. Employees who create, process or handle security classified information assets should be trained in how to assess and handle classified information.
 
-Education and awareness programs will likely vary across an agency and between agencies and depend on the type of work and types of information assets dealt with.
+>Education and awareness programs will likely vary across an agency and between agencies and depend on the type of work and types of information assets dealt with.
 
 
 ## NIST CSF
@@ -1096,23 +1096,23 @@ The following excerpts are from CSF Version 1.1 | April 16, 2018
 > * Service providers that provide cybersecurity-related services for the organization are informed about the organization’s applicable privacy policies.
 
 #### Category - Awareness and Training (PR.AT):
-The organization’s personnel and partners are provided cybersecurity awareness education and are trained to perform their cybersecurity related duties and responsibilities consistent with related policies, procedures, and agreements.
+>The organization’s personnel and partners are provided cybersecurity awareness education and are trained to perform their cybersecurity related duties and responsibilities consistent with related policies, procedures, and agreements.
 
-* PR.AT-1: All users are informed and trained
+> * PR.AT-1: All users are informed and trained
 CIS CSC 17, 18
 COBIT 5 APO07.03, BAI05.07
 ISA 62443-2-1:2009 4.3.2.4.2
 ISO/IEC 27001:2013 A.7.2.2, A.12.2.1
 NIST SP 800-53 Rev. 4 AT-2, PM-13
 
-* PR.AT-2: Privileged users understand their roles and responsibilities
+> * PR.AT-2: Privileged users understand their roles and responsibilities
 CIS CSC 5, 17, 18
 COBIT 5 APO07.02, DSS05.04, DSS06.03
 ISA 62443-2-1:2009 4.3.2.4.2, 4.3.2.4.3
 ISO/IEC 27001:2013 A.6.1.1, A.7.2.2
 NIST SP 800-53 Rev. 4 AT-3, PM-13
 
-* PR.AT-3: Third-party stakeholders (e.g., suppliers, customers, partners) understand their roles and responsibilities
+> * PR.AT-3: Third-party stakeholders (e.g., suppliers, customers, partners) understand their roles and responsibilities
 CIS CSC 17
 COBIT 5 APO07.03, APO07.06, APO10.04,
 APO10.05
@@ -1120,14 +1120,14 @@ ISA 62443-2-1:2009 4.3.2.4.2
 ISO/IEC 27001:2013 A.6.1.1, A.7.2.1, A.7.2.2
 NIST SP 800-53 Rev. 4 PS-7, SA-9, SA-16
 
-* PR.AT-4: Senior executives understand their roles and responsibilities
+> * PR.AT-4: Senior executives understand their roles and responsibilities
 CIS CSC 17, 19
 COBIT 5 EDM01.01, APO01.02, APO07.03
 ISA 62443-2-1:2009 4.3.2.4.2
 ISO/IEC 27001:2013 A.6.1.1, A.7.2.2
 NIST SP 800-53 Rev. 4 AT-3, PM-13
 
-PR.AT-5: Physical and cybersecurity personnel understand their roles and responsibilities
+> * PR.AT-5: Physical and cybersecurity personnel understand their roles and responsibilities
 CIS CSC 17
 COBIT 5 APO07.03
 ISA 62443-2-1:2009 4.3.2.4.2
@@ -1139,12 +1139,6 @@ NIST SP 800-53 Rev. 4 AT-3, IR-2, PM-13
 ##### Tier 1: Partial
 ...
 > Integrated Risk Management Program – There is limited awareness of cybersecurity risk at the organizational level. The organization implements cybersecurity risk management on an irregular, case-by-case basis due to varied experience or information gained from outside sources. The organization may not have processes that enable cybersecurity information to be shared within the organization.
-
-
-
-
-
-
 
 
 ## CMMC
@@ -1172,33 +1166,15 @@ The following excerpts are from CMMC Version 1.02 | March 18, 2020
 
 #### Awareness and Training (AT)
 >Level 2
+...
 >AT.2.056 Ensure that managers, system administrators, and users of organizational systems are made aware of the security risks associated with their activities and of the applicable policies, standards, and procedures related to the security of those systems.
 >At.2.057 Ensure that personnel are trained to carry out their assigned information security-related duties and responsibilities
-
+...
 >Level 3
+...
 >AT.3.058 Provide security awareness training on recognizing and reporting potential indicators of insider threat.
-
+...
 >Level 4
+...
 >AT.4.059 Provide awareness training focused on recognizing and responding to threats from social engineering, advanced persistent threat actors, breaches, and suspicious behaviors; update the training at least annually or when there are significant changes to the threat.
 >AT.4.060 Include practical exercises in awareness training that are aligned with current threat scenarios and provide feedback to individuals involved in the training.
-
-
-
-* IRAP/ISM
-* ISMS (ISO 27001) - Information Security Management System
-* BCMS (ISO 22301) - Business Continuity Management System
-* IMS (Integrated Management system) ???
-* PSPF/ISM
-* APRA CPS 234
-* ISO 14001 ???
-* Essential 8 - I don't think there's anything there, though there may be in the other controls. I should look to see how far down training is.
-* PSPF
-* SOC 2/3
-* GNGB
-* SACSF
-* VPDSF
-* NSW CSP
-* IS18
-* NIST CSF
-* C2M2??? Not a regulatory thing, but a cyber capability measurement assessment.
-* CMMC - we don't deal with this, but it exists and has stuff on training. I think it's a NIST thing?

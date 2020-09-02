@@ -24,7 +24,7 @@ Excerpts from the standards are included, but you may wish to consult the standa
 | VPDSF                                                     | Victorian Protective Data Security Framework                                         | No                    |
 | NSW CSP                                                   | New South Wales Cyber Security Policy                                                | Yes                   |
 | IS18                                                      | Information security policy (Queensland Government)                                  | Yes                   |
-| NIST CSF                                                  |                                                                                      |                       |
+| NIST CSF                                                  | NIST Cybersecurity Framework                                                         | Yes                   |
 | C2M2                                                      | Cybersecurity Capability Maturity Model                                              | No                    |
 | CMMC                                                      | Cybersecurity Maturity Model Certification                                           | Yes                   |
 
@@ -342,7 +342,8 @@ b) ensure that these persons are competent on the basis of appropriate education
 c) where applicable, take actions to acquire the necessary competence, and evaluate the effectiveness of the actions taken; and
 d) retain appropriate documented information as evidence of competence.
 
-NOTE Applicable actions may include, for example: the provision of training to, the mentoring of, or the reassignment of current employees; or the hiring or contracting of competent persons.
+NOTE Applicable actions may include, for example: the provision of training to, the mentoring of, or the reassignment of current employees; or the hiring or contracting of competent persons.
+
 
 #### A.7 Human resource security - A.7.2 During employment
 
@@ -406,7 +407,8 @@ Additional point of focus specifically related to all engagements using the trus
 
 ...
 
-Additional points of focus specifically related to all engagements using the trust services criteria:
+Additional points of focus specifically related to all engagements using the trust services criteria:
+
 
 ...
 
@@ -492,6 +494,71 @@ The ongoing education and awareness of all employees regarding the importance of
 Agencies should ensure that all employees have a clear understanding of the agency information security classification policies and procedures, their responsibilities, and principles. Employees who create, process or handle security classified information assets should be trained in how to assess and handle classified information.
 
 Education and awareness programs will likely vary across an agency and between agencies and depend on the type of work and types of information assets dealt with.
+
+
+## NIST CSF
+
+### What is NIST CSF?
+**NIST Cybersecurity Framework**
+
+
+### What does it say about education and training?
+
+The following excerpts are from CSF Version 1.1 | April 16, 2018
+
+#### 3.6 Methodology to Protect Privacy and Civil Liberties
+
+>Awareness and training measures
+> * Applicable information from organizational privacy policies is included in cybersecurity workforce training and awareness activities.
+> * Service providers that provide cybersecurity-related services for the organization are informed about the organization’s applicable privacy policies.
+
+#### Category - Awareness and Training (PR.AT):
+The organization’s personnel and partners are provided cybersecurity awareness education and are trained to perform their cybersecurity related duties and responsibilities consistent with related policies, procedures, and agreements.
+
+* PR.AT-1: All users are informed and trained
+CIS CSC 17, 18
+COBIT 5 APO07.03, BAI05.07
+ISA 62443-2-1:2009 4.3.2.4.2
+ISO/IEC 27001:2013 A.7.2.2, A.12.2.1
+NIST SP 800-53 Rev. 4 AT-2, PM-13
+
+* PR.AT-2: Privileged users understand their roles and responsibilities
+CIS CSC 5, 17, 18
+COBIT 5 APO07.02, DSS05.04, DSS06.03
+ISA 62443-2-1:2009 4.3.2.4.2, 4.3.2.4.3
+ISO/IEC 27001:2013 A.6.1.1, A.7.2.2
+NIST SP 800-53 Rev. 4 AT-3, PM-13
+
+* PR.AT-3: Third-party stakeholders (e.g., suppliers, customers, partners) understand their roles and responsibilities
+CIS CSC 17
+COBIT 5 APO07.03, APO07.06, APO10.04,
+APO10.05
+ISA 62443-2-1:2009 4.3.2.4.2
+ISO/IEC 27001:2013 A.6.1.1, A.7.2.1, A.7.2.2
+NIST SP 800-53 Rev. 4 PS-7, SA-9, SA-16
+
+* PR.AT-4: Senior executives understand their roles and responsibilities
+CIS CSC 17, 19
+COBIT 5 EDM01.01, APO01.02, APO07.03
+ISA 62443-2-1:2009 4.3.2.4.2
+ISO/IEC 27001:2013 A.6.1.1, A.7.2.2
+NIST SP 800-53 Rev. 4 AT-3, PM-13
+
+PR.AT-5: Physical and cybersecurity personnel understand their roles and responsibilities
+CIS CSC 17
+COBIT 5 APO07.03
+ISA 62443-2-1:2009 4.3.2.4.2
+ISO/IEC 27001:2013 A.6.1.1, A.7.2.2
+NIST SP 800-53 Rev. 4 AT-3, IR-2, PM-13
+
+#### 2.2 Framework Implementation Tiers
+...
+##### Tier 1: Partial
+...
+> Integrated Risk Management Program – There is limited awareness of cybersecurity risk at the organizational level. The organization implements cybersecurity risk management on an irregular, case-by-case basis due to varied experience or information gained from outside sources. The organization may not have processes that enable cybersecurity information to be shared within the organization.
+
+
+
 
 
 
